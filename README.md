@@ -30,10 +30,10 @@
 class DeybyCamacho:
     def __init__(self):
         self.role      = "Backend Developer"
-        self.location  = "Colombia 🇨🇴"
+        self.location  = "Chile 🇨🇱 (colombiano 🇨🇴)"
         self.education = "Estudiante universitario — UNAB"
-        self.stack     = ["Python", "Django", "DRF", "TypeScript", "React", "Docker"]
-        self.learning  = ["Arquitectura de software", "Cloud (GCP)", "Testing & CI/CD"]
+        self.stack     = ["Python", "Django", "DRF", "HTML", "CSS", "Bootstrap", "Docker"]
+        self.learning  = ["TypeScript", "React", "Arquitectura de software", "Testing & CI/CD"]
         self.editors   = ["Neovim", "VS Code", "JetBrains"]
         self.mindset   = "Autodidacta · aprendo rápido · construyo para aprender"
 
@@ -42,10 +42,11 @@ class DeybyCamacho:
 ```
 
 - 🎓 Estudiante universitario en la **UNAB** y **100% autodidacta**: la mayor parte de mi stack la aprendí por mi cuenta.
+- 🌎 Colombiano viviendo en **Chile**. Disponible para trabajo **remoto** o local.
 - ⚙️ Me especializo en el **backend**: APIs REST con **Django + Django REST Framework**, modelado de datos y buenas prácticas.
-- 🧩 También me muevo en el **frontend** con **React + TypeScript** para construir productos completos de punta a punta.
+- 🎨 En **frontend** mi base sólida es **HTML, CSS y Bootstrap**; **TypeScript y React** los estoy trabajando en mejora continua para construir productos de punta a punta.
 - 🗄️ Modelo y consulto datos con **PostgreSQL** y **MySQL**; diseño interfaces en **Figma** antes de escribir código.
-- 🐳 Trabajo con **Docker / Docker Compose**, despliegues en **Linux server** y **Google Cloud**.
+- 🐳 Trabajo con **Docker / Docker Compose** y despliegues en **Linux server**, **Google Cloud** y **DigitalOcean**.
 - 📋 Organizo mi trabajo con **Scrum y metodologías ágiles**: sprints, tablero e iteraciones cortas.
 - 🤖 Uso **IA (Claude)** como acelerador de aprendizaje y revisión de código — no como reemplazo del criterio propio.
 - 📚 Aprendo construyendo: cada repo de mi perfil es un proyecto real donde practico un concepto nuevo.
@@ -75,13 +76,17 @@ class DeybyCamacho:
 
 <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,redis&theme=dark" alt="Bases de datos" />
 
-**Frontend & Diseño**
+**Frontend & Diseño** — base sólida
 
-<img src="https://skillicons.dev/icons?i=react,vite,tailwind,figma&theme=dark" alt="Frontend y diseño" />
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,figma&theme=dark" alt="Frontend base" />
+
+**Frontend — en mejora continua** 📈
+
+<img src="https://skillicons.dev/icons?i=ts,react,vite,tailwind&theme=dark" alt="Frontend en aprendizaje" />
 
 **DevOps & Cloud**
 
-<img src="https://skillicons.dev/icons?i=docker,linux,gcp,nginx,git,github&theme=dark" alt="DevOps" />
+<img src="https://skillicons.dev/icons?i=docker,linux,gcp,digitalocean,nginx,git,github&theme=dark" alt="DevOps" />
 
 **Editores**
 
@@ -104,11 +109,13 @@ class DeybyCamacho:
 
 | Proyecto | Descripción | Stack |
 | :--- | :--- | :--- |
-| **[NovusDesk](https://github.com/deyby01/novusdesk)** | Helpdesk SaaS **multi-tenant** en arquitectura monorepo. | `Django` `DRF` `Celery` `React` `TypeScript` |
-| **[Nexus PM v2](https://github.com/deyby01/nexus-pm-v2)** | Gestor de proyectos estilo Jira/Trello, segunda iteración del diseño. | `Django` `PostgreSQL` `Docker` |
-| **[Novus RA Intelligence](https://github.com/deyby01/novus-ra-intelligence)** | Convierte archivos Excel en dashboards y reportes con IA. | `TypeScript` `React` `Gemini AI` |
-| **[TaskFlow API](https://github.com/deyby01/learning-path-drf)** | API REST de gestión de tareas construida desde cero, con revisiones por PR. | `Django REST Framework` |
-| **[E-learning SaaS](https://github.com/deyby01/elearning-saas)** | Plataforma de cursos en línea orientada a producto. | `Django` `PostgreSQL` |
+| 🔒 **NovusDesk** | Helpdesk SaaS **multi-tenant** en arquitectura monorepo. | `Django` `DRF` `Celery` `React` `TypeScript` |
+| 🔒 **Nexus PM v2** | Gestor de proyectos estilo Jira/Trello, segunda iteración del diseño. | `Django` `PostgreSQL` `Docker` |
+| 🌐 **[Novus RA Intelligence](https://github.com/deyby01/novus-ra-intelligence)** | Convierte archivos Excel en dashboards y reportes inteligentes con IA. | `TypeScript` `React` `Gemini AI` |
+| 🌐 **[Agenda Personal](https://github.com/deyby01/agenda_personal)** | Uno de mis primeros proyectos con Django. Lo mantengo como referencia de mi punto de partida y seguiré mejorándolo. | `Django` `HTML` `CSS` |
+
+> 🔒 = repositorio **privado**. Si eres reclutador y quieres revisar el código de alguno,
+> [escríbeme](mailto:piedrahitadeyby@gmail.com) y te doy acceso o te agendo un recorrido por el proyecto.
 
 <br/>
 
