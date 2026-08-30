@@ -1,118 +1,167 @@
-<h1 align="center">Hi , I'm Deyby Camacho <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Programmer+Backend+Junior;Software+Developer+Junior;Competitive+Programmer;Always+learning+new+things"></a>
-</p>
-<br>
-	
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+<!-- ========================= HEADER ========================= -->
+<div align="center">
 
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:8957E5&height=200&section=header&text=Deyby%20Camacho&fontSize=52&fontColor=FFFFFF&fontAlignY=35&desc=Backend%20Developer%20%7C%20Python%20%C2%B7%20Django%20%C2%B7%20DRF&descAlignY=55&descSize=18&animation=fadeIn" width="100%" />
 
-<br><br>
+<a href="https://github.com/deyby01">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=1F6FEB&center=true&vCenter=true&width=650&height=60&lines=Backend+Developer+%7C+Python+%2B+Django+%2B+DRF;Construyendo+APIs+REST+escalables;Docker+%C2%B7+Linux+%C2%B7+Google+Cloud;Autodidacta+y+estudiante+universitario;Siempre+aprendiendo+algo+nuevo+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
 
-- :school: I am a `Junior` software developer with Django.
-- :technologist: I love using Software as a solution for every `Problem`.
-- :student: I’m currently learning `Backend Development` and `Software Develepment`.
-- :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity`.
-<br>
+<br/>
 
+<a href="https://www.linkedin.com/in/deyby-camacho-piedrahita-01341b238/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:piedrahitadeyby@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://github.com/deyby01?tab=repositories">
+  <img src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repos" />
+</a>
+<img src="https://komarev.com/ghpvc/?username=deyby01&style=for-the-badge&color=8957E5&label=PROFILE+VIEWS" alt="Profile views" />
 
-## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
-<p align="center">
-	<a href="piedrahitadeyby@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-	<a href="https://github.com/deyby01"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/deyby-camacho-piedrahita-01341b238/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-</p>
+</div>
 
+<!-- ========================= ABOUT ========================= -->
 
+## 🧑‍💻 Sobre mí
 
-## 🛠️ My Skills
+```python
+class DeybyCamacho:
+    def __init__(self):
+        self.role      = "Backend Developer"
+        self.location  = "Colombia 🇨🇴"
+        self.education = "Estudiante universitario — UNAB"
+        self.stack     = ["Python", "Django", "DRF", "TypeScript", "React", "Docker"]
+        self.learning  = ["Arquitectura de software", "Cloud (GCP)", "Testing & CI/CD"]
+        self.editors   = ["Neovim", "VS Code", "JetBrains"]
+        self.mindset   = "Autodidacta · aprendo rápido · construyo para aprender"
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> Programming languages
+    def open_to_work(self) -> bool:
+        return True
+```
 
-<p align="center"> 
-  &emsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
-   </a>
-  &emsp;
-  <a href="https://www.java.com" target="_blank"> 
-    <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?style=plastic&logo=java&logoColor=white">
-  </a>
-  &emsp;
-   <a href="https://www.python.org" target="_blank">
-    <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=plastic&logo=python&logoColor=white">
-  </a>
-</p>
+- 🎓 Estudiante universitario en la **UNAB** y **100% autodidacta**: la mayor parte de mi stack la aprendí por mi cuenta.
+- ⚙️ Me especializo en el **backend**: APIs REST con **Django + Django REST Framework**, modelado de datos y buenas prácticas.
+- 🧩 También me muevo en el **frontend** con **React + TypeScript** para construir productos completos de punta a punta.
+- 🗄️ Modelo y consulto datos con **PostgreSQL** y **MySQL**; diseño interfaces en **Figma** antes de escribir código.
+- 🐳 Trabajo con **Docker / Docker Compose**, despliegues en **Linux server** y **Google Cloud**.
+- 📋 Organizo mi trabajo con **Scrum y metodologías ágiles**: sprints, tablero e iteraciones cortas.
+- 🤖 Uso **IA (Claude)** como acelerador de aprendizaje y revisión de código — no como reemplazo del criterio propio.
+- 📚 Aprendo construyendo: cada repo de mi perfil es un proyecto real donde practico un concepto nuevo.
+- 🕹️ Refuerzo fundamentos y práctica diaria en **[Codédex](https://www.codedex.io/)**.
+- 💬 Hablo **español** e inglés técnico. Abierto a **oportunidades junior y prácticas**.
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 50px>  </picture> Frontend Development
-<p align="center"> 
-  &emsp; 
-  <a href="https://www.w3.org/html/" target="_blank"> 
-   <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=plastic&logo=html5&logoColor=white">
-  </a>   
-  &emsp;
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=plastic&logo=css3&logoColor=white">
-  </a> 
-  &emsp;
-  <a href="https://www.python.org" target="_blank">
-    <img alt="Python" src="https://img.shields.io/badge/react-%2361DAFB.svg?style=plastic&logo=React&logoColor=black">
-  </a>
-  &emsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
-   </a>
-</p>
+<br/>
 
- ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> Software & Tools
- 
-<p align="center">
-  &emsp;
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Mark Down" src="https://img.shields.io/badge/Markdown-000000?style=plastic&logo=markdown&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="JSON" img src="https://img.shields.io/badge/json-%23000000.svg?style=plastic&logo=json&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/django-%23092E20.svg?&style=plastic&logo=django&logoColor=white" /></a>
-  &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=plastic&logo=mysql&logoColor=white"/></a>
-</p>
+<!-- ========================= STACK ========================= -->
 
- ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 50px>  </picture> IDEs
- 
-<p align="center">
-  &emsp;
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="JetBrain" src="https://img.shields.io/badge/jetbrains-%23000000.svg?style=plastic&logo=jetbrains&logoColor=white" /></a>
-  &emsp;
-</p>
+## 🛠️ Tech Stack
 
- ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/CP_PS.gif?raw=true" width = 50px>  </picture> Competitive Programming & Problem Solving
- 
-<p align="center">	
-  &emsp;
-    <a href="#"><img alt = "Leetcode" src="https://img.shields.io/badge/leetcode%20-%23FFA116.svg?style=plastic&logo=leetcode&logoColor=black" /></a>
-  &emsp;
-    <a href="#"><img alt = "Huckerrank" src="https://img.shields.io/badge/hackerrank-%232EC866.svg?style=plastic&logo=hackerrank&logoColor=white" /></a>
-  &emsp;
-    <a href="#"><img alt = "Google" src="https://img.shields.io/badge/google-%234285F4.svg?style=plastic&logo=google&logoColor=white" /></a>
-</p>
+<div align="center">
 
- ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 50px>  </picture> Operating Systems
- 
-<p align="center">
-  &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black"></a>
-  &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>
-</p>
+**Lenguajes**
 
-<br> 
+<img src="https://skillicons.dev/icons?i=python,ts,js,html,css&theme=dark" alt="Lenguajes" />
+
+**Backend**
+
+<img src="https://skillicons.dev/icons?i=django&theme=dark" alt="Backend" />
+<br/>
+<img src="https://img.shields.io/badge/Django_REST_Framework-A30000?style=for-the-badge&logo=django&logoColor=white" alt="DRF" />
+<img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white" alt="Celery" />
+
+**Bases de datos**
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,redis&theme=dark" alt="Bases de datos" />
+
+**Frontend & Diseño**
+
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind,figma&theme=dark" alt="Frontend y diseño" />
+
+**DevOps & Cloud**
+
+<img src="https://skillicons.dev/icons?i=docker,linux,gcp,nginx,git,github&theme=dark" alt="DevOps" />
+
+**Editores**
+
+<img src="https://skillicons.dev/icons?i=vscode,idea,pycharm,neovim&theme=dark" alt="Editores" />
+
+**Metodologías & Aprendizaje**
+
+<img src="https://img.shields.io/badge/Scrum-0052CC?style=for-the-badge&logo=scrumalliance&logoColor=white" alt="Scrum" />
+<img src="https://img.shields.io/badge/Metodolog%C3%ADas_%C3%81giles-4A154B?style=for-the-badge&logo=trello&logoColor=white" alt="Agile" />
+<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude" />
+<a href="https://www.codedex.io/"><img src="https://img.shields.io/badge/Cod%C3%A9dex-6C5CE7?style=for-the-badge&logoColor=white" alt="Codedex" /></a>
+
+</div>
+
+<br/>
+
+<!-- ========================= PROJECTS ========================= -->
+
+## 🚀 Proyectos destacados
+
+| Proyecto | Descripción | Stack |
+| :--- | :--- | :--- |
+| **[NovusDesk](https://github.com/deyby01/novusdesk)** | Helpdesk SaaS **multi-tenant** en arquitectura monorepo. | `Django` `DRF` `Celery` `React` `TypeScript` |
+| **[Nexus PM v2](https://github.com/deyby01/nexus-pm-v2)** | Gestor de proyectos estilo Jira/Trello, segunda iteración del diseño. | `Django` `PostgreSQL` `Docker` |
+| **[Novus RA Intelligence](https://github.com/deyby01/novus-ra-intelligence)** | Convierte archivos Excel en dashboards y reportes con IA. | `TypeScript` `React` `Gemini AI` |
+| **[TaskFlow API](https://github.com/deyby01/learning-path-drf)** | API REST de gestión de tareas construida desde cero, con revisiones por PR. | `Django REST Framework` |
+| **[E-learning SaaS](https://github.com/deyby01/elearning-saas)** | Plataforma de cursos en línea orientada a producto. | `Django` `PostgreSQL` |
+
+<br/>
+
+<!-- ========================= STATS ========================= -->
+
+## 📊 GitHub Stats
+
+<!--
+  Nota: estas tarjetas usan un mirror de github-readme-stats porque la instancia
+  oficial (github-readme-stats.vercel.app) suele devolver 503 por rate limit.
+  Si algún día el mirror falla, cambia el host por: github-readme-stats.vercel.app
+-->
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats-salesp07.vercel.app/api?username=deyby01&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=1F6FEB&icon_color=8957E5" alt="GitHub Stats" />
+<img height="165" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=deyby01&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=1F6FEB" alt="Top Languages" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=deyby01&theme=tokyonight&hide_border=true&background=0D1117&ring=1F6FEB&fire=8957E5&currStreakLabel=1F6FEB" alt="GitHub Streak" />
+
+<br/><br/>
+
+<!-- Snake: se genera con .github/workflows/snake.yml (rama "output") -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/deyby01/deyby01/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/deyby01/deyby01/output/github-snake.svg" />
+  <img alt="Snake de contribuciones" src="https://raw.githubusercontent.com/deyby01/deyby01/output/github-snake.svg" />
+</picture>
+
+</div>
+
+<br/>
+
+## 🤝 Hablemos
+
+<div align="center">
+
+**¿Buscas un backend junior con hambre de aprender y capacidad de entregar?**
+Estoy abierto a oportunidades, prácticas y proyectos colaborativos.
+
+<a href="https://www.linkedin.com/in/deyby-camacho-piedrahita-01341b238/">
+  <img src="https://img.shields.io/badge/Conectemos_en_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:piedrahitadeyby@gmail.com">
+  <img src="https://img.shields.io/badge/Escríbeme-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+
+<br/><br/>
+
+<i>"El mejor código es el que resuelve un problema real."</i>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8957E5,50:1F6FEB,100:0D1117&height=120&section=footer" width="100%" />
+
+</div>
